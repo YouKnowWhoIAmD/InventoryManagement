@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Inventory Management</string>
+    <string name="add_some_items_here">Add some items here</string>
+</resources>
